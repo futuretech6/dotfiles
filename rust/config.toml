@@ -13,3 +13,6 @@ registry = "https://mirrors.tuna.tsinghua.edu.cn/git/crates.io-index.git"
 
 [source.rustcc]
 registry = "https://code.aliyun.com/rustcc/crates.io-index.git"
+
+[source.zju]
+registry = "https://mirrors.zju.edu.cn/git/crates.io-index.git"
