@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 baidu.com###con-ar
 baidu.com###content_right
 baidu.com###s_side_wrapper
