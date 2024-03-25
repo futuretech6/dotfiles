@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: futuretech6's Adblock List
 ! Expires: 1 days (update frequency)
+bilibili.com##.desktop-download-tip
 baidu.com###con-ar
 baidu.com###content_right
 baidu.com###s_side_wrapper
