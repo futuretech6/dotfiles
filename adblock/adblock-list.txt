@@ -111,3 +111,10 @@ zhihu.com##.css-41cyla
 zhihu.com##.css-ybodb
 zhihu.com##div[class="Pc-card Card"]
 zhihu.com##div[data-za-detail-view-path-module_name="相关推荐"]
+
+www.nowcoder.com##.float-login
+www.nowcoder.com##.el-carousel__container
+www.nowcoder.com##.new-user-task
+
+csdn.net##.passport-login-tip-container
+csdn.net##.passport-login-container
