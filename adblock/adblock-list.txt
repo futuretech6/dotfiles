@@ -118,6 +118,7 @@ nowcoder.com##.new-user-task
 nowcoder.com##.selector-container.tw-relative
 nowcoder.com##.tw-w-\[910px\].tw-h-68.tw-rounded-xl.tw-bg-white.tw-mb-3
 nowcoder.com##.tool-box.tw-px-2
+nowcoder.com##.tw-w-full.tw-rounded-xl.tw-p-5.tw-pb-0.tw-bg-white
 
 csdn.net##.passport-login-tip-container
 csdn.net##.passport-login-container
