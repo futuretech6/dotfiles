@@ -122,3 +122,5 @@ nowcoder.com##.tw-w-full.tw-rounded-xl.tw-p-5.tw-pb-0.tw-bg-white
 
 csdn.net##.passport-login-tip-container
 csdn.net##.passport-login-container
+
+cc98.org###root > div.main-container > div.mainPage:nth-child(2) > div.rightPart:last-child > div:nth-child(2)
