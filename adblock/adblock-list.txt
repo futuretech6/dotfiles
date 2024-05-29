@@ -99,7 +99,9 @@ wenku.baidu.com##.tip-wrap
 wenku.baidu.com##.tool-bar-wrapper.fade-in
 wenku.baidu.com##.vip-activity-content
 wenku.baidu.com##.vip-card-inner.inner-vip
+
 xiaolincoding.com##.site-name.can-hide
+
 zhihu.com##.Card-header
 zhihu.com##.Card-header.RelatedCommodities-title
 zhihu.com##.Card-section.RelatedCommodities-list
@@ -111,6 +113,7 @@ zhihu.com##.css-41cyla
 zhihu.com##.css-ybodb
 zhihu.com##div[class="Pc-card Card"]
 zhihu.com##div[data-za-detail-view-path-module_name="相关推荐"]
+zhihu.com###root > div > main.App-main:nth-child(4) > div.Topstory > div:first-child
 
 nowcoder.com##.float-login
 nowcoder.com##.el-carousel__container
