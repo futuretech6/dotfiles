@@ -127,3 +127,10 @@ csdn.net##.passport-login-tip-container
 csdn.net##.passport-login-container
 
 cc98.org###root > div.main-container > div.mainPage:nth-child(2) > div.rightPart:last-child > div:nth-child(2)
+
+rou.video##div:last-child > div > a:first-child > img
+rou.video###__next > div.text-gray-900.dark\:text-gray-200.bg-gray-100.dark\:bg-gray-900 > div.shadow.drawer > div.flex.flex-col.drawer-content:nth-child(2) > div:last-child > div.max-w-screen-2xl.mx-auto > div.grid.grid-cols-1.md\:grid-cols-4.gap-12.px-2:first-child > div.md\:col-span-3:first-child > div.flex.justify-center.my-3:nth-child(2)
+rou.video###__next > div.text-gray-900.dark\:text-gray-200.bg-gray-100.dark\:bg-gray-900 > div.shadow.drawer > div.flex.flex-col.drawer-content:nth-child(2) > div:last-child > div.max-w-screen-2xl.mx-auto > div.grid.grid-cols-1.lg\:grid-cols-3.gap-2:first-child > div.md\:col-span-2:first-child > div.flex.items-center.justify-center:first-child
+rou.video###__next > div.text-gray-900.dark\:text-gray-200.bg-gray-100.dark\:bg-gray-900 > div.shadow.drawer > div.flex.flex-col.drawer-content:nth-child(2) > div:last-child > div.max-w-screen-2xl.mx-auto > div.grid.grid-cols-1.lg\:grid-cols-3.gap-2:first-child > div.md\:col-span-2:first-child > div.my-1.grid.grid-cols-1.md\:grid-cols-3.text-center:nth-child(2)
+rou.video###__next > div.text-gray-900.dark\:text-gray-200.bg-gray-100.dark\:bg-gray-900 > div.shadow.drawer > div.flex.flex-col.drawer-content:nth-child(2) > div:last-child > div.max-w-screen-2xl.mx-auto > div.grid.grid-cols-1.lg\:grid-cols-3.gap-2:first-child > div.md\:col-span-1.px-3:last-child > div.flex.justify-center:nth-child(6)
+rou.video###__next > div.text-gray-900.dark\:text-gray-200.bg-gray-100.dark\:bg-gray-900 > div.shadow.drawer > div.flex.flex-col.drawer-content:nth-child(2) > div:last-child > div.max-w-screen-2xl.mx-auto > div.grid.grid-cols-1.lg\:grid-cols-3.gap-2:first-child > div.md\:col-span-2:first-child > div.grid.grid-cols-2.lg\:grid-cols-4.gap-4.lg\:gap-8.mt-2.mb-6:last-child
